@@ -1,0 +1,17 @@
+{
+  "name": "sfdx-node-cache-proxy-server",
+  "version": "1.0.0",
+  "description": "An in-memory cached server to relieve frontend request on a web service",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sebastien F. Deschamps",
+  "license": "SEE LICENCE IN LICENCES.md",
+  "dependencies": {
+    "cookie-parser": "^1.4.3",
+    "express": "^4.16.3",
+    "node-fetch": "^2.2.0",
+    "prompt": "^1.0.0"
+  }
+}
